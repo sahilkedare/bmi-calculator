@@ -8,3 +8,5 @@ This is a flutter BMI calculator app where user can input their gender height an
 <img src="images/main.jpg" height="530" width="250">
 <br>
 <img src="images/result.jpg" height="530" width="250">
+
+<h3>Thank You 😃</h3>
